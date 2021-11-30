@@ -1,3 +1,2 @@
 # Projects
-My Test
-Мои проекты
+### Описание проектов в README.md
