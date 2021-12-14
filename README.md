@@ -14,4 +14,5 @@
 
 | [Анализ заёмщиков банка](https://github.com/IgorKurz/Projects/tree/main/Bank)   | Анализ взятия займа у банка под разные цели  |  pandas |
 |[Квартирный вопрос](https://github.com/IgorKurz/Projects/tree/main/Home%2CRoom)  | Анализ стоимости квартир в зависиммотси от разных показателей (м/кв,этаж,район и т.п.| pandas,numpy,maptlotlib |
-[Музыка больших городов](https://github.com/IgorKurz/Projects/tree/main/Music)
+
+  [Музыка больших городов](https://github.com/IgorKurz/Projects/tree/main/Music)
